@@ -40,3 +40,15 @@ a{
     background-color: #212EA0;
     color: #fff;
 }
+
+/* responsiveness */
+@media(max-width: 1200){
+    .container{
+   margin-left: 5%;
+    margin-right: 5%;
+    }
+    .btn{
+        padding: 14px 22px
+    }
+ 
+}
