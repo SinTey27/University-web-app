@@ -26,7 +26,7 @@ nav ul li{
 .menu-icon{
     display: none;
 }
-/* responsivenss */
+
 @media(max-width: 1000px){
 .logo{
     width: 140px;
