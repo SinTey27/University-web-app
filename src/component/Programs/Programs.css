@@ -41,3 +41,13 @@
     width: 60px;
     margin-bottom: 10px;
 }
+/* responsivenss */
+@media(max-width: 650px){
+    .programs{
+        flex-direction: column;
+    }
+    .program{
+        flex-basis: 100px;
+        margin: 20px;
+    }
+}
